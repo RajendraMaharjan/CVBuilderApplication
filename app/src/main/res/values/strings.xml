@@ -24,8 +24,7 @@
     <string name="career_note">Career Note</string>
     <string name="career_note_desc"><b>Completed</b> on-campus studies and currently taking distance education courses to complete a Master\'s Degree in Computer Science (Available for full-time <b>W2</b> employment).</string>
     <string name="work_experience">Work Experience</string>
-    <string name="work_experience_desc">
-        <b>Languages: </b>Java
+    <string name="work_experience_desc"><b>Languages: </b>Java
         \n\n<b>Frameworks: </b>Spring(Boot, Data, IOC, DI, Security, Cloud), Hibernate, JDBC, Express
         \n\n<b>Web: </b>HTML, CSS, JavaScript, jQuery, XML, AJAX
         \n\n<b>Web Services: </b>RESTful API, Microservices,
